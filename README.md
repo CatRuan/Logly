@@ -1,7 +1,7 @@
 Logly
 ====
 logly is a demo to show <br>
-how to  check  application's performance by BugLog and record crash info when application run <br>
+how to check application's performance by PFLog and record crash info when application run by BugLog<br>
 * * *
 BugLog
 ====
